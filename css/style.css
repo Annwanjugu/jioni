@@ -1,0 +1,71 @@
+ body{
+     background-color: pink;
+color: black;
+text-align: left;
+     /*padding: 66px ;*/
+padding-left: 79px ;
+padding-top: 29px ;
+ }
+ a {
+     text-decoration: none;
+     color: darkcyan;
+ }
+ a:hover{
+     color: lavender;
+     border-bottom: lavender 1px solid;
+     font-size: x-large;
+ }
+ p{
+     color: brown;
+ }
+ b{
+     color: darkblue;
+ }
+ i{
+     color: darkmagenta;
+ }
+.one{
+    color: lawngreen;
+}
+.two{
+    background-color: lightslategray;
+    border: olive 7px dotted;
+    border-radius: 92px;
+}
+.three{
+    margin-left: 40px;
+    border: darkseagreen 3px solid;
+    border-radius: 74px;
+    margin-right: 770px;
+    width: 12%;
+}
+.four{
+    width: 35%;
+    border: lightslategray 5px solid;
+    border-radius: 10px;
+}
+
+#one{
+    background-color: #150227;
+    color: lavender;
+}
+#two{
+    background-color: olive;
+    font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+body {
+    background-color:black;
+    color: pink;
+}
+ .five{ color: pink;
+}
+.six{
+    color: chocolate;
+}
+.sev{
+    padding : 1px;
+}
+table,td,th {
+    border: lavender 3px solid;
+    border-collapse: collapse;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7swcuMrn6Sj0a6fJGIZ1QxoKhzxYye5M2A&usqp=CAU"
+    );
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
